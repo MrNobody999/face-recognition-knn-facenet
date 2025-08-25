@@ -1,0 +1,6 @@
+torch
+facenet-pytorch
+numpy
+opencv-python
+scikit-learn
+pymongo
