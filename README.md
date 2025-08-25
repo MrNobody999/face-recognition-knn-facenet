@@ -8,7 +8,7 @@ This project implements a simple **face recognition system** using:
 
 ---
 
-## Project Structure
+##  Project Structure
 face-recognition-knn-facenet/
 │
 ├── enroll/ # Training dataset (organized by person)
