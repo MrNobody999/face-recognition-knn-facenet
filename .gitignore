@@ -1,0 +1,12 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+.env
+.venv/
+
+# Ignore dataset if needed (optional)
+enroll/
+test_images/
